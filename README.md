@@ -33,4 +33,4 @@ Simple Age and Gender Detector using Machine Learning
 9.View results
 
 ## Sample Outputs
-### sample output 1:
+### [sample output 1:]()
