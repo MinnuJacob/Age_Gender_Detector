@@ -33,4 +33,5 @@ Simple Age and Gender Detector using Machine Learning
 9.View results
 
 ## Sample Outputs
-[sample output 1:](https://github.com/MinnuJacob/Age_Gender_Detector/blob/main/sample_output1.png)
+### Sample Outputs 1
+![sample output 1:](https://github.com/MinnuJacob/Age_Gender_Detector/blob/main/sample_output1.png)
