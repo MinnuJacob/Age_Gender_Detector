@@ -11,3 +11,9 @@ Simple Age and Gender Detector using Machine Learning
 4.Click on the detect button
 
 5.View results
+
+##To Run this Model
+
+1.Clone this repository
+
+2.Open the [Model Jupyter Notebook]()
